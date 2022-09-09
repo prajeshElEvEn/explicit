@@ -6,6 +6,7 @@ Videos that should `not` be on [YouTube](https://www.youtube.com/).
 
 - [beautifulsoup4](https://pypi.org/project/beautifulsoup4/)
 - [lxml](https://pypi.org/project/lxml/)
+- [requests](https://pypi.org/project/requests/)
 
 ## Author
 
