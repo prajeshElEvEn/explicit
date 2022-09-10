@@ -8,6 +8,10 @@ Videos that should `not` be on [YouTube](https://www.youtube.com/).
 - [lxml](https://pypi.org/project/lxml/)
 - [requests](https://pypi.org/project/requests/)
 
+## Status
+
+In progress...
+
 ## References
 
 [freeCodeCamp.org](https://www.youtube.com/watch?v=XVv6mJpFOb0)
