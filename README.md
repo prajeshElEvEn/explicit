@@ -16,6 +16,8 @@ Videos that should `not` be on [YouTube](https://www.youtube.com/). Explicit is 
 ## Dependencies
 
 - [python](https://www.python.org/)
+- [pip](https://pypi.org/project/pip/)
+- [google-api-python-client](https://pypi.org/project/google-api-python-client/)
 - [requests](https://pypi.org/project/requests/)
 
 ## Resources
