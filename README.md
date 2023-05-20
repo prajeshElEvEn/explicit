@@ -8,6 +8,10 @@ Videos that should `not` be on [YouTube](https://www.youtube.com/).
 - [lxml](https://pypi.org/project/lxml/)
 - [requests](https://pypi.org/project/requests/)
 
+## Resources
+
+- [Youtube Data API](https://developers.google.com/youtube/v3)
+
 ## Installation
 
 - Fork and clone the [repository](https://github.com/prajeshElEvEn/explicit)
