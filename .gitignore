@@ -3,3 +3,4 @@ venv
 data
 test/data
 .env
+client_secret.json
