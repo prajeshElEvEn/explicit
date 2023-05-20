@@ -8,6 +8,38 @@ Videos that should `not` be on [YouTube](https://www.youtube.com/).
 - [lxml](https://pypi.org/project/lxml/)
 - [requests](https://pypi.org/project/requests/)
 
+## Installation
+
+- Fork and clone the [repository]()
+
+```bash
+git clone <reo-url>
+```
+
+- Navigate to the project directory
+
+```bash
+cd explicit
+```
+
+- Create a virtual environment
+
+```bash
+python -m venv venv
+```
+
+- Activate the virtual environment
+
+```bash
+source venv/bin/activate
+```
+
+- Install the dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Status
 
 In progress...
