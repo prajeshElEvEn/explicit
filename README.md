@@ -10,10 +10,10 @@ Videos that should `not` be on [YouTube](https://www.youtube.com/).
 
 ## Installation
 
-- Fork and clone the [repository]()
+- Fork and clone the [repository](https://github.com/prajeshElEvEn/explicit)
 
 ```bash
-git clone <reo-url>
+git clone <repo-url>
 ```
 
 - Navigate to the project directory
