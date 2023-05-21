@@ -56,6 +56,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
+- Download `OAuth2.0` secret key `.json` file from [Google Cloud Platform](https://console.cloud.google.com/apis/credentials) and move it to the project directory
 - Run the `main.ipynb` file
 
 ## Status
@@ -64,7 +65,10 @@ In progress...
 
 ## References
 
-[freeCodeCamp.org](https://www.youtube.com/watch?v=XVv6mJpFOb0)
+- [YouTube Data API](https://developers.google.com/youtube/v3)
+- [YouTube Data API - Python Quickstart](https://developers.google.com/youtube/v3/quickstart/python)
+- [YouTube Data API - Reporting Abuse](https://developers.google.com/youtube/v3/docs/videos/reportAbuse)
+- [ChatGPT](https://chat.openai.com/)
 
 ## Contributing
 
