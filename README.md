@@ -56,6 +56,8 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
+- Run the `main.ipynb` file
+
 ## Status
 
 In progress...
