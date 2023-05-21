@@ -2,6 +2,8 @@
 
 `⚠️ Warning: This is an explicit content detector. You may find content that is not suitable for children.`
 
+Check out the official website [here](https://prajeshEleven.github.io/explicit-web/).
+
 ## Description
 
 Videos that should `not` be on [YouTube](https://www.youtube.com/). Explicit is a `python` based YouTube scraper that efficiently collects links to videos containing explicit content. It generates a comprehensive list of such content and saves it in a CSV file. Additionally, it takes the responsible initiative to report these explicit videos. By automating the process, it contributes to ensuring a safer and more suitable environment on YouTube by actively identifying and reporting inappropriate content.
